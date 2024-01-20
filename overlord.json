@@ -2,9 +2,10 @@
     "name": "Cid ig"
     "description": "Cid again",
         "authors": [
-            }
+    {
             "Name" "Beast"
-    },
+    }
+        ],
     "simple_colors": {
         "background": 0,
         "background_secondary": 419430400,
