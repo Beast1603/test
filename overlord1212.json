@@ -1,15 +1,17 @@
 {
-    "manifest": {
-        "version": "1.0.0",
-        "name": "Overlord",
-        "author": "beast "
-    },
-    "background": {
-        "overlay_alpha": 160,
-        "url": "https:\/\/media.discordapp.net\/attachments\/1172471225767968838\/1182000730337464450\/a537064b509636a9364cbbe5dd9fa822.jpg?ex=65831af"
+    "name": "Overlord",
+    "description": "literally overlord lmao .",
+	"authors": [
+      {
+         "name": "Beast_",
+         "id": "597012356337369145"
     },
     "fonts": {
         "*": "https:\/\/cdn.discordapp.com\/attachments\/904126772055003146\/991065233260969994\/Louis_George_Cafe.ttf"
+    },
+  "semanticColors": { 
+    "SPOILER_HIDDEN_BACKGROUND": ["#1E1F22"],
+    "SPOILER_REVEALED_BACKGROUND": ["#232428"]
     },
     "simple_colors": {
         "background": 0,
@@ -37,4 +39,23 @@
         "ic_thread": -8421248
     },
     "raws": {}
+},
+    "background": {
+        "url": "https:\/\/media.discordapp.net\/attachments\/1172471225767968838\/1182000730337464450\/a537064b509636a9364cbbe5dd9fa822.jpg?ex=65831af"
+    },
+    "plus": {
+        "version": 0,
+        "customOverlays": true,
+        "icons": {
+            "ic_mic_neutral": "#102b47",
+            "ic_mic_muted_neutral": "#102b47",
+            "ic_soundboard":"#102b47",
+            "ic_soundboard_muted": "#102b47",
+            "ic_video": "#102b47",
+            "ic_video_disabled": "#102b47"
+        },
+        "iconpack":"rosiecord-plumpy"
+    },
+    "spec": 2
+		}
 }
