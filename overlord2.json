@@ -1,0 +1,56 @@
+{
+    "name": "Overlord",
+    "description": "literally overlord lmao .",
+	"authors": [
+      {
+         "name": "Beast_",
+         "id": "597012356337369145"
+    },
+    "background": {
+        "url": "https:\/\/media.discordapp.net\/attachments\/1172471225767968838\/1182000730337464450\/a537064b509636a9364cbbe5dd9fa822.jpg?ex=65831af"
+    },
+    "plus": {
+        "version": 0,
+        "customOverlays": true,
+        "icons": {
+        "ic_mic_neutral": "#102b47",
+        "ic_mic_muted_neutral": "#102b47",
+        "ic_soundboard":"#102b47",
+        "ic_soundboard_muted": "#102b47",
+        "ic_video": "#102b47",
+        "ic_video_disabled": "#102b47"
+    },
+    "fonts": {
+        "*": "https:\/\/cdn.discordapp.com\/attachments\/904126772055003146\/991065233260969994\/Louis_George_Cafe.ttf"
+    },
+  "semanticColors": { 
+    "SPOILER_HIDDEN_BACKGROUND": ["#1E1F22"],
+    "SPOILER_REVEALED_BACKGROUND": ["#232428"]
+    },
+    "simple_colors": {
+        "background": 0,
+        "background_secondary": 419430400,
+        "accent": -288417779,
+        "active_channel": -15658478,
+        "mention_highlight": 553297689,
+        "input_background": 1477513746
+    },
+    "colors": {
+        "uikit_btn_bg_color_selector_red": -1294011,
+        "primary_dark_800": -16578803,
+        "primary_700": -15328990,
+        "link": -1381654,
+        "link_500": -16777216,
+        "primary_dark_300": -8421248,
+        "uikit_settings_item_text_color_dark": -5592406
+    },
+    "drawable_tints": {
+        "ic_sidebar_notifications_off_dark_24dp": -8421248,
+        "ic_sidebar_notifications_on_dark_24dp": -8421248,
+        "ic_sidebar_pins_on_dark_24dp": -8421248,
+        "ic_sidebar_pins_off_dark_24dp": -8421248,
+        "ic_sidebar_search_24dp": -8421248,
+        "ic_thread": -8421248
+    },
+    "raws": {}
+}
