@@ -148,8 +148,8 @@
     },
     "spec": 2,
     "background": {
-        "url": "https://cdn.discordapp.com/attachments/1085255200887025675/1198570100425506827/IMG_20240121_150912.jpg?ex=65bf6264&is=65aced64&hm=769df6b2c49617e1797b902d4fcf84bdc7fcd115c3c80afb5949c483614ab105&",
-        "alpha": 1.2,
+        "url": "https://media.discordapp.net/attachments/1085255200887025675/1198570100425506827/IMG_20240121_150912.jpg?ex=65bf6264&is=65aced64&hm=769df6b2c49617e1797b902d4fcf84bdc7fcd115c3c80afb5949c483614ab105&",
+        "alpha": "0.5",
         "color": "#081924"
     }         
 }
